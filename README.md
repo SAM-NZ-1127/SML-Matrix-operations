@@ -27,7 +27,7 @@ should return [4,5,6] (i.e. the second row of x).
 4. Write a function column: ’a list list * int -> ’a list that returns
 the ith column of a matrix. For example column (x, 2) should return
 the second column of the matrix x, which is [2,5,8].
-1
+
 2 Test cases
 val x = [[1,2,3],[4,5,6],[7,8,9]];
 - print (matrixToString x);
